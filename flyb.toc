@@ -1,0 +1,14 @@
+## Interface: 70100
+## Title: |cffc41f3bFly with B|r
+## Author: Rubim
+## Version: 1.31
+## Notes: Blabla, voar.
+## SavedVariables: FlyBDB
+## OptionalDeps: Ace3
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+flyb.lua
+flybc.lua
